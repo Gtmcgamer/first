@@ -1,0 +1,64 @@
+body {
+    background-color: whitesmoke;
+}
+
+p{
+    color: black;
+    font-size: 25px;
+    font-style: italic;
+}
+#p1{
+    color: rgb(192, 19, 19);
+}
+.hendi, h1{
+    color: brown;
+    font-size: 20px;
+    font-weight: bold;
+}
+.banana{
+    color: rgb(233, 233, 39);
+    font-size: 20px;
+    font-weight: bold;
+}
+.tomato{
+    color: red;
+    font-size: 20px;
+
+}
+.coco{
+    font-size: 20px;
+    color: brown;
+    font-weight: bold;
+}
+section p{
+    font-style: italic;
+}
+h1{
+    font-size: 50px;
+    font-weight: lighter;
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+section{
+    border-width: 2px;
+    border-style: solid;
+    padding: 20px;
+}
+ul li{
+    display: inline;
+}
+input{
+
+}
+
+
+
+
+
+
